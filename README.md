@@ -2,6 +2,8 @@
 
 `GP2 ❤️ Open Science 😍`
 
+[![DOI](https://zenodo.org/badge/724374357.svg)](https://zenodo.org/doi/10.5281/zenodo.10211778)
+
 **Last Updated:** November 2023 
 
 ## Summary
